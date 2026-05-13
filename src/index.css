@@ -23,7 +23,7 @@
   --color-border: #CFC8BD;
 
   /* Optional (food tone support) */
-  --color-brown: #8B5E3C;
+  --color-brown: #563a25;
   --color-warm: #B97A56;
 
   /* Font Family */
@@ -108,21 +108,27 @@ body {
    🔤 TYPOGRAPHY
 ========================= */
 h1 {
+
+  font-family: var(--font-heading);
   font-size: var(--text-xl);
   font-weight: 600;
 }
 
 h2 {
+
+  font-family: var(--font-heading);
   font-size: var(--text-lg);
   font-weight: 600;
 }
 
 h3 {
+  font-family: var(--font-heading);
   font-size: var(--text-md);
   font-weight: 500;
 }
 
 p {
+  font-family: var(--font-body);
   font-size: var(--text-base);
   color: var(--color-text-secondary);
 }
