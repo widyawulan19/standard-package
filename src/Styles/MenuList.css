@@ -45,6 +45,9 @@ NAV HEADER
     padding: 6px 10px;
     font-size: 18px;
     cursor: pointer;
+
+    -webkit-tap-highlight-color: transparent;
+
 }
 
 .nav-icon:hover,
@@ -96,10 +99,22 @@ MENU LIST
 }
 
 .menu-box-list {
-    /* border: 1px solid blue; */
-    height: 85vh;
+    height: 80vh;
     overflow-y: auto;
+
+    -webkit-overflow-scrolling: touch;
+    /* smooth di iOS */
+
+    scrollbar-width: none;
+    /* Firefox */
 }
+
+
+/* Chrome, Safari */
+.menu-box-list::-webkit-scrollbar {
+    display: none;
+}
+
 
 .list-box {
     padding: 5px 0px;
