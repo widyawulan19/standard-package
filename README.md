@@ -33,6 +33,11 @@ Perfect for:
 
 Perfect for businesses that need a clean and simple digital menu.
 
+### What you'll get from this package
+* two page of (welcome, and menu list)
+* responsive digital menu
+* match with your brand color
+
 ### Features
 * Responsive Digital Menu
 * Menu Categories
@@ -157,7 +162,6 @@ This project is open-source and available under the MIT License.
 https://light-menu-digital.vercel.app/
 
 ## Preview 
-![Bold Welcome Screen](./public/welcomePic.png)
-![Choose Screen](./public/listPic.png)
-![Meals Menu Screen](./public/menuPic.png)
+![ Welcome Screen](./public/welcomePic.png)
+![ Menu Screen](./public/menuPic.png)
 
