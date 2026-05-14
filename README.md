@@ -159,7 +159,7 @@ This project is open-source and available under the MIT License.
 
 
 ## LIVE PREVIRW / Deploy link 
-https://light-menu-digital.vercel.app/
+(https://standard-package-pearl.vercel.app/menu-list)
 
 ## Preview 
 ![ Welcome Screen](./public/welcomePic.png)
