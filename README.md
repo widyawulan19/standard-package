@@ -1,85 +1,52 @@
-# Digital Menu Web App — Restaurant Edition "THE LOCAL"
+# Digital Menu Web App Packages "STANDARD"
 
-A modern, mobile-first digital menu web app designed to deliver a seamless, app-like experience directly from the browser.
+## Digital Menu Website Packages
 
-Built for restaurants and cafés, this solution transforms traditional menu displays into a clean, interactive, and user-friendly digital experience.
+Modern and responsive digital menu solutions for coffee shops, restaurants, cafés, and culinary businesses that want to grow with a more digital customer experience.
 
----
+## Package Overview
 
-## Problem Statement
+This project provides three service packages based on business needs:
 
-Many restaurants still rely on static menu displays such as image-based menus stored in platforms like Google Drive or posted on social media.
+Basic Package → Simple & clean digital menu
+Standard Package → Interactive menu with search feature
+Premium Package → Full experience with advanced customization
 
-This approach creates several usability issues:
+Perfect for:
 
-* Menu presented as images instead of structured data
-* Users must zoom in and out to read items clearly
-* Difficult to browse or find specific menu items
-* Poor mobile experience (not responsive)
-* No categorization or smooth navigation
-* No scalability for menu updates (price/menu changes)
-
-As a result, the customer experience becomes inefficient and less engaging.
-
----
-
-## ✨ Solution
-
-This project transforms traditional menus into a modern digital product:
-
-*  Mobile-first, app-like interface
-*  Category-based navigation (Appetizer, Main Course, Dessert, Beverages)
-*  Structured and easy-to-read menu layout
-*  Fast and responsive performance
-*  Focused UX: Browse menu quickly without friction
-*  Ready for integration (WhatsApp, location, etc.)
-
-
-## User Flow
-
-Designed with simplicity and usability in mind:
-
-* Welcome Page
-   → Intro & branding of the restaurant
-* Choose Menu
-   → Users select menu categories (e.g. Appetizer, Main Course, Drinks)
-* Menu Page
-   → Display menu items with:
-   ** Name
-   ** Description
-   ** Price / Ice & Hot variants (for beverages)
-
----
-
-## Key Features
-* Clean typography-based design (no dependency on images)
-* Supports both:
-* Standard pricing (food)
-* Variant pricing (ice / hot drinks)
-* Lightweight and fast loading
-* Easy to customize for different restaurants
-* Scalable structure for future features
-
-
-## Why This Matters
-
-This digital menu is not just a UI — it's a product solution for small businesses:
-
-* Improves customer experience
-* Speeds up menu browsing
-* Makes the business look more modern & professional
-* Easy to update compared to static image menus
----
-
+* Coffee Shops
+* Restaurants
+* UMKM Culinary Businesses
+* Beverage Brands
+* Modern Café Concepts
+  
 ## 🖼️ Preview
 
 > Simple, elegant interface inspired by modern cafe experiences.
 
 * Welcome screen with branding
-* Menu selection page
 * Interactive menu list
-
 ---
+
+## THIS PACKAGE [Basic Package]
+
+
+Perfect for businesses that need a clean and simple digital menu.
+
+### Features
+* Responsive Digital Menu
+* Menu Categories
+* Modern UI Design
+* Mobile Friendly Layout
+* Contact Information Section
+* Easy-to-Edit Menu Data
+* Fast Loading Website
+
+### Suitable For
+* Small cafés
+* Street food brands
+* Simple restaurant menus
+* Businesses starting their digital presence
 
 ## 🛠️ Tech Stack
 
@@ -94,8 +61,8 @@ This digital menu is not just a UI — it's a product solution for small busines
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/widyawulan19/bold-menu-digital.git
-cd bold-menu-digital
+git clone https://github.com/widyawulan19/standard-package.git
+cd standard-package
 ```
 
 ---
