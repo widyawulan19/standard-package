@@ -159,7 +159,7 @@ This project is open-source and available under the MIT License.
 
 
 ## LIVE PREVIRW / Deploy link 
-(https://standard-package-pearl.vercel.app/menu-list)
+(https://standard-package-pearl.vercel.app/)
 
 ## Preview 
 ![ Welcome Screen](./public/welcomePic.png)
